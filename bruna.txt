@@ -1,8 +1,12 @@
-Essa menina mulher da pele preta
-Dos olhos azuis, do sorriso branco
-Não está me deixando dormir sossegado
-Será que ela não sabe que eu fico acordado
-Pensando nela todo dia, toda hora
-Passando pela minha janela todo dia, toda hora
-Sabendo que eu fico a olhar
-Com malícia.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATIVIDADE DE VERSIONAMENTO</title>
+</head>
+<body>
+    <h1>GIT</h1>
+</body>
+</html>
